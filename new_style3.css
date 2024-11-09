@@ -123,7 +123,7 @@ input[type="submit"] {
     position: relative;
 }
 
-.image-component {
+.ic {
     display: flex;
     flex-direction: column;
     justify-content: center;
