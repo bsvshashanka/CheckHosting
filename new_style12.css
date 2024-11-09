@@ -145,13 +145,13 @@ input[type="submit"] {
     font-size: 3rem;
 }
 
-#cloth-text {
+#ct {
     margin-top: 0;
     color: darkred;
     font-size: 1.49rem;
 }
 
-#person-text {
+#pt {
     margin-top: 0;
     color: darkgreen;
     font-size: 1.49rem;
