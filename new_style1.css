@@ -197,12 +197,12 @@ input[type="submit"] {
     transition: transform 0.30s;
 }
 
-.left-image:hover {
+/* .left-image:hover {
     transform: scale(1.0);
     z-index: 1000;
     display: flex;
     flex-direction: column;
-}
+} */
 
 .right-image {
     width: 95%;
@@ -215,12 +215,12 @@ input[type="submit"] {
     transition: transform 0.3s;
 }
 
-.right-image:hover {
+/* .right-image:hover {
     transform: scale(1.0);
     z-index: 1000;
     display: flex;
     flex-direction: column;
-}
+} */
 
 .index {
     align-self: flex-start;
