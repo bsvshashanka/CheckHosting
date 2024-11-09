@@ -96,7 +96,7 @@ input[type="submit"] {
     overflow: hidden;
 }
 
-#overall-container {
+#oc {
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
