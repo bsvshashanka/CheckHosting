@@ -138,7 +138,7 @@ input[type="submit"] {
     min-height: 150px;
 }
 
-#index-text {
+#it {
     font-weight: bold;
     color: var(--text-primary); /* Updated to use CSS variable or replace with actual color */
     text-align: center;
