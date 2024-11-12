@@ -82,7 +82,7 @@ input[type="submit"] {
     position: relative;
 }
 
-#mycontainer {
+#myc {
     display: flex;
     flex-direction: column; /* Changed from row to column to avoid duplicate declarations */
     justify-content: space-between;
